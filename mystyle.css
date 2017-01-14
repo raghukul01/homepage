@@ -1,10 +1,119 @@
 #quora {
 position:absolute;
-top: 35px;
-left: 170px;
+top: 1000px;
+left: 500px;
 width: 50px;
 height: 50px;
-border-style: dotted;
+border-style: double;
 border-width: 2px 5px 2px 5px;
+border-color: #000055;
 
 }
+#facebook {
+position:absolute;
+top: 1000px;
+left: 580px;
+width: 50px;
+height: 50px;
+border-style: double;
+border-width: 2px 5px 2px 5px;
+border-color: #000055;
+}
+#google {
+position:absolute;
+top: 1000px;
+left: 660px;
+width: 50px;
+height: 50px;
+border-style: double;
+border-width: 2px 5px 2px 5px;
+border-color: #000055;
+}
+#insta {
+position:absolute;
+top: 1000px;
+left: 740px;
+width: 50px;
+height: 50px;
+border-style: double;
+border-width: 2px 5px 2px 5px;
+border-color: #000055;
+}
+#follow {
+position:absolute;
+top: 940px;
+left: 550px;
+width: 200px;
+height: 50px;
+}
+#name {
+position:absolute;
+top: 50px;
+left: 170px;
+font-style:normal;
+font-weight:bold;
+}
+#mypic {
+position:absolute;
+top: 10px;
+left: 10px;
+width: 150px;
+height: 150px;
+}
+#division1 {
+position:absolute;
+top: 120px;
+left: 180px;
+font-style:italic;
+font-weight:bold;
+}
+#division1>ul {
+list-style-type:square;
+}
+#leftbut {
+background-color:#280000;
+position:absolute;
+top: 50px;
+left: 1100px;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 50px;
+margin: 4px 2px;
+cursor: pointer;
+border-radius:100%;
+}
+#division2 {
+position:absolute;
+top: 50px;
+left: 1000px;
+font-style:normal;
+font-weight:bold;
+}
+#div2 {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
