@@ -85,7 +85,11 @@ text-decoration: none;
 display: inline-block;
 font-size: 50px;
 margin: 4px 2px;
-cursor: pointer;
+-webkit-border-radius: 28;
+-moz-border-radius: 28;
+border-radius: 28px;
+font-family: Arial;
+text-decoration: none;
 border-radius:100%;
 }
 #leftbut:hover
@@ -109,11 +113,13 @@ width:400px;
 height:60px;
 padding: 5px 32px;
 text-align: center;
+-webkit-border-radius: 28;
+-moz-border-radius: 28;
+border-radius: 28px;
+font-family: Arial;
 text-decoration: none;
-display: inline-block;
 font-size: 25px;
 margin: 4px 2px;
-cursor: pointer;
 font-weight: bold;
 }
 #division2 > button:hover
@@ -147,22 +153,3 @@ color:#660066;
 font-size: 24px;
 font-weight: bold;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
