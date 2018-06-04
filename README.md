@@ -1,5 +1,6 @@
 Hosted at: cse.iitk.ac.in/users/raghukul
 
+
 Any line starting with '#' in templetes/index_templete.txt will be rendered from sections/ where file name is written after '#'
 
 Usage of generate_index.py script:
