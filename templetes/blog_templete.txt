@@ -11,7 +11,7 @@
         # sidebar.html
 
     <div class="container-fluid p-0">
-        # gsoc.html
+        # gsoc_first_evaluation.html
 
     </div>
 
