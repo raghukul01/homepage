@@ -23,8 +23,6 @@
 
         # interests.html
 
-        # awards.html
-
         # contact.html
 
     </div>
